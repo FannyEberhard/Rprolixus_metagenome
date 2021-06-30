@@ -1,2 +1,4 @@
-# Rprolixus_metagenome
-Metagenomic shotgun analysis of the intestinal tract of R. prolixus
+# *R. prolixus* metagenome
+Metagenomic shotgun analysis of the intestinal tract of the Chagas disease vector, *R. prolixus*
+## Experimental design
+The aetiological agent of Chagas disease, the protozoan parasite *Trypanosoma cruzi*, as well as its non-pathogenic relative, *T. rangeli*, are transmitted by triatomine insects, also called 'kissing bugs'. During their life cycle, they undergo a developmental phase in the vector's intestine coming into contact with the inherent microbial community of the gut lumen. Here, we are exploring the changes of the microbiome occurring during parasite infestation taking into account microbial composition as well as bacterial metabolic capacities. In order to do so, we use a metagenomic shotgun sequencing approach with subsequent microbial community analysis, recovery of metgenome-assembled genomes and functional annotation. 
